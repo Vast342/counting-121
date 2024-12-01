@@ -90,6 +90,5 @@ fn find_and_print(start: i64, target: i64) {
 }
 
 fn main() {
-    // randomly selected first value (as in i googled "rng 1-100")
-    find_and_print(30, 121);
+    find_and_print(61, 121);
 }
