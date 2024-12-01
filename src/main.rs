@@ -90,5 +90,5 @@ fn find_and_print(start: i64, target: i64) {
 }
 
 fn main() {
-    find_and_print(61, 121);
+    find_and_print(1, 122);
 }
